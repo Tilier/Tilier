@@ -3,4 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilier&layout=compact)](https://github.com/Tilier)
 
 
-I'm currently working on coding Discord bots and some cool tests.
+I'm currently working Scardify. Check it out!!
